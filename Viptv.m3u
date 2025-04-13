@@ -410,10 +410,10 @@ http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/36312|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/SONY YAY.png" group-title="Kids",Sony YAY!
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/36337|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/nicktoons-clivebesle.png" group-title=" Kids",Nicktoons
+#EXTINF:-1 tvg-logo="" group-title=" Kids",Nicktoons
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/28891|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/nickj.png" group-title="Kids",Nick Junior 
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/nickj.png" group-title="Kids",Nick Jr
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/28951|Host=m.zoom.us
 
 #EXTINF:0 tvg-rec="7",Gulli Girl
@@ -589,7 +589,7 @@ http://watchindia.net:8880/40972/04523/307|Host=m.zoom.us
 http://watchindia.net:8880/40972/04523/287|Host=m.zoom.us
 
 marathi
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/strpr.png" group-title="MARATHI",mravah HD
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/strpr.png" group-title="MARATHI",Star Pravah HD
 http://watchindia.net:8880/40972/04523/918|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeyuv.png" group-title="MARATHI",Zee Yuva 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/378727|Host=m.zoom.us
@@ -610,9 +610,9 @@ http://supersonictv.live:8080/688223/944008/85634|Host=m.zoom.us
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186986|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dis.png" group-title="Edutainment",DISCOVERY HD
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71071|Host=m.zoom.us
-#EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK109:Nat Geo Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK109NatGeoWild.png" group-title="Edutainment",Nat Geo Wild
+#EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK109:Nat Geo Wild" tvg-logo="" group-title="Edutainment",Nat Geo Wild
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/28950|Host=m.zoom.us
-#EXTINF:-1 tvg-id="love.nature.4k.gb" tvg-name="UK266:Love Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK266LoveNature.png" group-title="Edutainment",Love Nature
+#EXTINF:-1 tvg-id="love.nature.4k.gb" tvg-name="UK266:Love Nature" tvg-logo="" group-title="Edutainment",Love Nature
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/28793|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186963|Host=m.zoom.us
