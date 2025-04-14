@@ -176,7 +176,7 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6890/index.m3u8|Host=m.zoom.us
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2261/index.m3u8|Host=m.zoom.us
 #EXTINF:0 tvg-rec="3",Arirang Korea
-#EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo/UK/ITV1.png" , tvg-rec="0",ITV 1 
+#EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo/UK/ITV1.png" , tvg-rec="0",ITV1 
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/19185/index.m3u8|Host=m.zoom.us
 
@@ -233,7 +233,7 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6701/index.m3u8|Host=m.zoom.us
 http://watchindia.net:8880/40972/04523/887|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/than1.png" group-title="TAMIL",Thanthi TV
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/355378|Host=m.zoom.us
+http://watchindia.net:8880/40972/04523/947|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/kalgt.png" group-title="TAMIL",Kalaignar
 http://watchindia.net:8880/40972/04523/2148|Host=m.zoom.us
@@ -344,8 +344,8 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/1955|Host=m.zoom.us
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV
 http://watchindia.net:8880/40972/04523/825|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/MTV PLUS HD.png" group-title="Music",MTV HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/36329|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/MTV PLUS HD.png" group-title="Music",Star Maa Music 
+http://watchindia.net:8880/40972/04523/2192|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/66709|Host=m.zoom.us
