@@ -328,19 +328,19 @@ http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187019|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/humt.png" group-title="World Entertainment", Hum TV HD
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1891|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="World Entertainment",Zee Tv Canada
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="World India",Zee Tv Canada
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/6031|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/clrsg.png" group-title="World Entertainment",COLORS
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/clrsg.png" group-title="World India",COLORS
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/594|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="World Entertainment",Uthsav Plus
+#EXTINF:-1 tvg-logo="" group-title="World India",Uthsav Plus
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/942|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/humt.png" group-title="World Entertainment",Utsav Bharat
+#EXTINF:-1 tvg-logo="" group-title="World India",Utsav Bharat
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/657|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/strbh.png" group-title="World Entertainment",Star Bharat
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/strbh.png" group-title="World India",Star Bharat
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1528|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="World Entertainment",Sony Max
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="World India",Sony Max
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/601|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="World Entertainment",Colors Cineplex
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="World India",Colors Cineplex
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/623|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colrind.png" group-title="English Entertainment",Colors Infinity HD
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/378760|Host=m.zoom.us
@@ -627,12 +627,13 @@ http://watchindia.net:8880/40972/04523/919|Host=m.zoom.us
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159608|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zemar.png" group-title="MARATHI",Zee Marathi
-http://watchindia.net:8880/40972/04523/913|Host=m.zoom.us
+http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1321|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="MARATHI",Colors Marathi HD
 http://watchindia.net:8880/40972/04523/912|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="MARATHI",Sony Aath
 http://supersonictv.live:8080/688223/944008/85634|Host=m.zoom.us
-
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="MARATHI",Sun Marathi 
+http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/6027|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/anmpl.png" group-title="Edutainment",Animal Planet HD
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186986|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dis.png" group-title="Edutainment",DISCOVERY HD
@@ -650,6 +651,8 @@ http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856872|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="News",BBC World News
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/60508|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/winns.png" group-title="News",WION
+http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/3286|Host=m.zoom.us
+
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187347|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="News",CNA
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71065|Host=m.zoom.us
@@ -659,8 +662,8 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/3147|Host=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/26595|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dwnew.png" group-title="News",DW English 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/60510|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/suns.png" group-title="News",Sun News
-
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV INDIA
+http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/641|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeens.png" group-title="News",Zee News
 http://watchindia.net:8880/40972/04523/832|Host=m.zoom.us
 #EXTINF:-1 group-title=" News",CGTN 
