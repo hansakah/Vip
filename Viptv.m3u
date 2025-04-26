@@ -78,8 +78,8 @@ http://watchindia.net:8880/40972/04523/801|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strbh.png" group-title="Hindi Entertainment",Star Bharat HD
 http://watchindia.net:8880/40972/04523/780|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/dang.png" group-title="Hindi Entertainment",Dangal |Test
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1995|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/dang.png" group-title="Hindi Entertainment",Dangal
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277020.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/splus1.png" group-title="Hindi Entertainment",Star Plus HD
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/55274|Host=m.zoom.us
@@ -92,8 +92,8 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/55264|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strgld2.png" group-title="Hindi Entertainment",Star Gold HD
 http://watchindia.net:8880/40972/04523/785|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/strgld2.png" group-title="Hindi Entertainment",Star Gold 2 HD |Test
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/492|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/strgld2.png" group-title="Hindi Entertainment",Star Gold 2 HD
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277061.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strglds.png" group-title="Hindi Entertainment",Star Gold Select HD
 http://watchindia.net:8880/40972/04523/784|Host=m.zoom.us
@@ -284,15 +284,13 @@ http://watchindia.net:8880/40972/04523/887|Host=m.zoom.us
 http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/858031|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/splus1.png" group-title="World India",Star Plus HD
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/589|Host=m.zoom.us
-
 http://watchindia.net:8880/40972/04523/1924|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sony.png" group-title="World India",Set
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/440|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48936.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/uk/clrst.png" group-title="World India",Colors Rishtey
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1287|Host=m.zoom.us
+http://wanicelife.com:8880/12mx010025/88122262/1924|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/MBC/zeeaflam1.png" group-title="World India",Zee Alwan
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/2203|Host=m.zoom.us
@@ -306,7 +304,7 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/2204|Host=m.zoom.us
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400281174|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="World India",ZEE TV HD
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/598|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48941.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/clrsg.png" group-title="World India",Colors 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1928|Host=m.zoom.us
@@ -329,20 +327,22 @@ http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187019|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/humt.png" group-title="World Entertainment", Hum TV HD
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1891|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="World India",Zee Tv Canada
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/6031|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="World India",Sony Sab
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48938.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/clrsg.png" group-title="World India",COLORS
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/594|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="World India",Uthsav Plus
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/942|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48940.m3u8|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="World India",Utsav Plus
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/510907.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="World India",Utsav Bharat
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/657|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/strbh.png" group-title="World India",Star Bharat
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1528|Host=m.zoom.us
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/55227|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="World India",Utsav Gold
+http://wanicelife.com:8880/12mx010025/88122262/55221|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/zecn1.png" group-title="World India",Zee Cinema 
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48942.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="World India",Sony Max
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/601|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48937.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="World India",Colors Cineplex
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/623|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48950.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colrind.png" group-title="English Entertainment",Colors Infinity HD
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/378760|Host=m.zoom.us
 
@@ -371,9 +371,9 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/1954|Host=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1955|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV
-http://watchindia.net:8880/40972/04523/825|Host=m.zoom.us
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6582/index.m3u8|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/MTV PLUS HD.png" group-title="Music",Star Maa Music 
+#EXTINF:-1 tvg-logo="" group-title="Music",Star Maa Music 
 http://watchindia.net:8880/40972/04523/2192|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
@@ -398,18 +398,18 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/1944|Host=m.zoom.us
 http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856911|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",SONY PIX HD
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/55291|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Movies Select HD
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276918.m3u8|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Movies Select HD Test
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/387767|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strmvs.png" group-title="Movies",Star Movies HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187267|Host=m.zoom.us
+http://wanicelife.com:8880/12mx010025/88122262/27601|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mvns.png" group-title="Movies",Movies Now 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/376271|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277007.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mnx.png" group-title="Movies",MNX HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159490|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277006.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/priv.png" group-title="Movies",&prive HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/387755|Host=m.zoom.us
+http://wanicelife.com:8880/12mx010025/88122262/1963|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bflmx.png" group-title="Movies",&flix HD
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1956|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",CINEMAX 
@@ -417,19 +417,26 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/71058|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",HBO Hits 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71037|Host=m.zoom.us
 #EXTINF:-1 group-title="Movies",BOO
+http://wanicelife.com:8880/12mx010025/88122262/1697|Host=m.zoom.us
+
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1697|Host=m.zoom.us
 
 
 #EXTINF:-1 group-title=" Movies",Hits Movies 
 http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856886|Host=m.zoom.us
 
-#EXTINF:-1 group-title=" Movies",HBO Hits 
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856882|Host=m.zoom.us
+#EXTINF:-1 group-title=" Movies",HBO
+http://wanicelife.com:8880/12mx010025/88122262/1711|Host=m.zoom.us
 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856882|Host=m.zoom.us
+#EXTINF:-1 group-title=" Movies",HBO Family 
+http://wanicelife.com:8880/12mx010025/88122262/1707|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",TVN Movies 
 http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856928|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mnmv1.png" group-title=" Movies",MN+ HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187151|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277008.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title=" Movies",HBO Comedy 
+http://wanicelife.com:8880/12mx010025/88122262/3123|Host=m.zoom.us
 Kids
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/DISNEY INTERNATION.png" group-title="Kids",Disney International 
@@ -652,9 +659,9 @@ http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856872|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="News",BBC World News
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/60508|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/winns.png" group-title="News",WION
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/3286|Host=m.zoom.us
+http://watchindia.net:8880/40972/04523/816|Host=m.zoom.us
 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187347|Host=m.zoom.us
+
 #EXTINF:-1 tvg-logo="" group-title="News",CNA
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71065|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/cnn.png" group-title="News",CNN
@@ -664,7 +671,7 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/26595|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dwnew.png" group-title="News",DW English 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/60510|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV INDIA
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/641|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277022.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeens.png" group-title="News",Zee News
 http://watchindia.net:8880/40972/04523/832|Host=m.zoom.us
 #EXTINF:-1 group-title=" News",CGTN 
