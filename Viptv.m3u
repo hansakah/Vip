@@ -35,19 +35,19 @@ http://103.2.153.38/drm1/smil:startamildrm.smil/manifest.mpd|Host=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/51800|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",TVN
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856927|Host=m.zoom.us
+http://wanicelife.com:8880/12mx010025/88122262/51805|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",NHK World
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/854599|Host=m.zoom.us
+
 
 #EXTINF:-1 group-title="World Entertainment",ONE 
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856899|Host=m.zoom.us
+http://wanicelife.com:8880/12mx010025/88122262/71053|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment",K-Plus
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71111|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",CCTV4 
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856896|Host=m.zoom.us
+
 
 #EXTINF:-1 group-title=" World Entertainment",Kix 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1716|Host=m.zoom.us
@@ -192,10 +192,18 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2261/index.m3u8|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo/UK/ITV1.png" , tvg-rec="0",ITV1 
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/19185/index.m3u8|Host=m.zoom.us
-
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2071/index.m3u8|Host=m.zoom.us
 
+#EXTINF:0 , tvg-logo="http://epg.one/img2/6648.png" , tvg-rec="0",ITV2
+#EXTGRP:World Entertainment
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19186/index.m3u8|Host=m.zoom.us
+#EXTINF:0 , tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" , tvg-rec="0",ITV3
+#EXTGRP:World Entertainment
+http://wanicelife.com:8880/12mx010025/88122262/2904|Host=m.zoom.us
+#EXTINF:0 , tvg-logo="http://epg.one/img2/6651.png" , tvg-rec="0",ITV4
+#EXTGRP:World Entertainment
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19189/index.m3u8|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/flag/FlagCanada.png" , tvg-rec="3",BBC America
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/1092/index.m3u8|Host=m.zoom.us
@@ -219,7 +227,7 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/71034|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/vijasp.png" group-title="TAMIL",Vijay Super HD
 http://watchindia.net:8880/40972/04523/2190|Host=m.zoom.us
 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159597|Host=m.zoom.us
+http://ckfdagk.megakomo.xyz:900/8457027811//400159597|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunt.png" group-title="TAMIL",Sun TV 
 http://watchindia.net:8880/40972/04523/843|Host=m.zoom.us
