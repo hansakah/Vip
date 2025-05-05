@@ -243,7 +243,7 @@ http://watchindia.net:8880/40972/04523/2084|Host=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/55322|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/jmv.png" group-title="TAMIL",J Movies
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6699/index.m3u8|Host=m.zoom.us
+http://watchindia.net:8880/40972/04523/849|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/rajdpl.png" group-title="TAMIL",Raj Digital Plus
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6701/index.m3u8|Host=m.zoom.us
@@ -266,13 +266,13 @@ http://watchindia.net:8880/40972/04523/2083|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/jayt.png" group-title="TAMIL",Jaya TV 
 http://watchindia.net:8880/40972/04523/851|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="TAMIL",Vendhar TV
-http://watchindia.net:8880/40972/04523/2146|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="TAMIL",Adithya TV
+http://watchindia.net:8880/40972/04523/855|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/zeth.png" group-title="TAMIL",Zee Thirai HD
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",Zee Thirai HD Test
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187369|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="TAMIL", Zee Thirai
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/zeth.png" group-title="TAMIL", Zee Thirai
 http://watchindia.net:8880/40972/04523/2142|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/polmt.png" group-title="TAMIL",Polimer TV
