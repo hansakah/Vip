@@ -28,7 +28,7 @@ http://103.2.153.38/drm/smil:hirutvdrm.smil/manifest.mpd|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ducchq.png" group-title="Variety",ITN
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ducchq.png" group-title="Local Zoom free",ITN
 http://103.2.153.38/drm/smil:itndrm.smil/manifest.mpd|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -42,8 +42,8 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/51800|Host=m.zoom.us
 #EXTINF:-1 group-title=" World Entertainment",TVN
 http://wanicelife.com:8880/12mx010025/88122262/51805|Host=m.zoom.us
 
-#EXTINF:-1 group-title=" World Entertainment",NHK World
-
+#EXTINF:-1 group-title=" World Entertainment",8TV
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/1730|Host=m.zoom.us
 
 #EXTINF:-1 group-title="World Entertainment",ONE 
 http://wanicelife.com:8880/12mx010025/88122262/71053|Host=m.zoom.us
@@ -56,6 +56,13 @@ http://vocotv.pro:80/Kevin1/Kevin1/304087|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",Kix 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1716|Host=m.zoom.us
+
+#EXTINF:-1 group-title=" World Entertainment",Astro AEC
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/1723|Host=m.zoom.us
+
+
+#EXTINF:-1 group-title=" World Entertainment",TVB JADE
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/71040|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/t1.png" group-title="Hindi Entertainment",&TV HD
 http://watchindia.net:8880/40972/04523/782|Host=m.zoom.us
@@ -101,6 +108,8 @@ http://watchindia.net:8880/40972/04523/785|Host=m.zoom.us
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277061.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strglds.png" group-title="Hindi Entertainment",Star Gold Select HD
+http://vocotv.pro:80/Kevin1/Kevin1/694098|Host=m.zoom.us
+
 http://watchindia.net:8880/40972/04523/784|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="Hindi Entertainment",Colors Cineplex HD
@@ -181,6 +190,8 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6589/index.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment",NHK World 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/51851|Host=m.zoom.us
+#EXTINF:0 group-title="World Entertainment" tvg-id="2461" tvg-logo="http://epg.one/img2/2461.png" tvg-rec="3",Arirang Korea
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/2071/index.m3u8|Host=m.zoom.us
 
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/logos/showturk.png" , tvg-rec="3",Show TV 
 #EXTGRP:World Entertainment 
@@ -207,7 +218,7 @@ http://wanicelife.com:8880/12mx010025/88122262/2904|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="http://epg.one/img2/6651.png" , tvg-rec="0",ITV4
 #EXTGRP:World Entertainment
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19189/index.m3u8|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/flag/FlagCanada.png" , tvg-rec="3",BBC America
+#EXTINF:0 , tvg-logo="" , tvg-rec="3",BBC America
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/1092/index.m3u8|Host=m.zoom.us
 
@@ -363,15 +374,16 @@ http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159470|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="English Entertainment",BBC Lifestyle 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71120|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3627.png" group-title="English Entertainment",Lifetime 
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6484/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title=" English Entertainment",Comedy Central 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360526|Host=m.zoom.us
 
-#EXTINF:-1 group-title=" English Entertainment",HITS Now
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856871|Host=m.zoom.us
+#EXTINF:-1 group-title=" English Entertainment",E!
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360524|Host=m.zoom.us
 
-#EXTINF:-1 group-title=" English Entertainment",HITS  
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856885|Host=m.zoom.us
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/atn.png" group-title="Unknown",ATN HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/38317|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="English Entertainment",A&E
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360568|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187087|Host=m.zoom.us
 
@@ -435,7 +447,7 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/1697|Host=m.zoom.us
 
 
 #EXTINF:-1 group-title=" Movies",Hits Movies 
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856886|Host=m.zoom.us
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/71056|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" Movies",HBO
 http://wanicelife.com:8880/12mx010025/88122262/1711|Host=m.zoom.us
@@ -444,15 +456,14 @@ http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856882|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",HBO Family 
 http://wanicelife.com:8880/12mx010025/88122262/1707|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",TVN Movies 
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856928|Host=m.zoom.us
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/71059|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mnmv1.png" group-title=" Movies",MN+ HD
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277008.m3u8|Host=m.zoom.us
-#EXTINF:-1 group-title=" Movies",HBO Comedy 
-http://wanicelife.com:8880/12mx010025/88122262/3123|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="",group-title=" Movies",Lifetime Movies 
+http://1tvnow.icu:8080/linda@randell/075@570/20863|Host=m.zoom.us
 Kids
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/DISNEY INTERNATION.png" group-title="Kids",Disney International 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/36312|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/SONY YAY.png" group-title="Kids",Sony YAY!
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/36337|Host=m.zoom.us
@@ -479,8 +490,8 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/71084|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/75417|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/pog1.png" group-title="Kids",Pogo
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159716|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Kids",Moonbug
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/71061|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="Kids",Disney XD 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/3140|Host=m.zoom.us
