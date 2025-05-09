@@ -28,6 +28,11 @@ http://103.2.153.38/drm/smil:hirutvdrm.smil/manifest.mpd|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ducchq.png" group-title="Variety",ITN
+http://103.2.153.38/drm/smil:itndrm.smil/manifest.mpd|Host=m.zoom.us
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/vztqoe.png" group-title="Local Zoom free",Star Tamil
 http://103.2.153.38/drm1/smil:startamildrm.smil/manifest.mpd|Host=m.zoom.us
 
@@ -46,8 +51,8 @@ http://wanicelife.com:8880/12mx010025/88122262/71053|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment",K-Plus
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71111|Host=m.zoom.us
 
-#EXTINF:-1 group-title=" World Entertainment",CCTV4 
-
+#EXTINF:-1 group-title=" World Entertainment",Rush Prime
+http://vocotv.pro:80/Kevin1/Kevin1/304087|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",Kix 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1716|Host=m.zoom.us
