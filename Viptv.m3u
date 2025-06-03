@@ -40,27 +40,26 @@ http://103.2.153.38/drm1/smil:startamildrm.smil/manifest.mpd|Host=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/51800|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",TVN
-http://wanicelife.com:8880/12mx010025/88122262/51805|Host=m.zoom.us
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/51805|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",8TV
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1730|Host=m.zoom.us
 
 #EXTINF:-1 group-title="World Entertainment",ONE 
-http://wanicelife.com:8880/12mx010025/88122262/71053|Host=m.zoom.us
-
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/71053|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment",K-Plus
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71111|Host=m.zoom.us
 
-#EXTINF:-1 group-title=" World Entertainment",Rush Prime
-http://vocotv.pro:80/Kevin1/Kevin1/304087|Host=m.zoom.us
+#EXTINF:-1 group-title=" World Entertainment",TV2
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/1733|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",Kix 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1716|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",Astro AEC
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/1723|Host=m.zoom.us
-
-
+#EXTINF:-1 group-title=" World Entertainment",AAstro Aura
+http://yesimes.oknirvana.club:8880/D12m4576/93732754/71025|Host=m.zoom.us
 #EXTINF:-1 group-title=" World Entertainment",TVB JADE
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71040|Host=m.zoom.us
 
@@ -212,9 +211,9 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2071/index.m3u8|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="http://epg.one/img2/6648.png" , tvg-rec="0",ITV2
 #EXTGRP:World Entertainment
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19186/index.m3u8|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" , tvg-rec="0",ITV3
+#EXTINF:0 , tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" , tvg-rec="0",ITV 3
 #EXTGRP:World Entertainment
-http://wanicelife.com:8880/12mx010025/88122262/2904|Host=m.zoom.us
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19187/index.m3u8|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="http://epg.one/img2/6651.png" , tvg-rec="0",ITV4
 #EXTGRP:World Entertainment
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19189/index.m3u8|Host=m.zoom.us
