@@ -4,39 +4,39 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/rupavahini.png" group-title="Local Zoom free",Playlist Ex..Contact Admin Telegram @hansaka47 
-http://103.2.153.38/drm/smil:rupavahinidrm.smil/manifest.mpd|Host=m.zoom.us
+http://103.2.153.38/drm/smil:rupavahinidrm.smil/manifd|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/derana.png" group-title="Local Zoom free",Playlist Ex..Contact Admin Telegram @hansaka47 
-http://103.2.153.38/drm/smil:deranatvdrm.smil/manifest.mpd|Host=m.zoom.us
+http://103.2.153.38/drm/smil:deranatvdrm.smil/manifes|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ddcjju.png" group-title="Local Zoom free",Playlist Ex..Contact Admin Telegram @hansaka47 
-http://103.2.153.38/drm/smil:swarnawahinidrm.smil/manifest.mpd|Host=m.zoom.us
+http://103.2.153.38/drm/smil:swarnawahinidrm.smil/manpd|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ucihva.png" group-title="Local Zoom free",Playlist Ex.Contact Admin Telegram @hansaka47 
-http://103.2.153.38/drm/smil:sirasatvdrm.smil/manifest.mpd|Host=m.zoom.us
+http://103.2.153.38/drm/smil:sirasatvdrm.smid|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/hiru-tv.png" group-title="Local Zoom free",Playlist Ex..Contact Admin Telegram @hhansaka47 
-http://103.2.153.38/drm/smil:hirutvdrm.smil/manifghest.mpd|Host=m.zoom.ush
+http://103.2.153.38/drm/smil:hirutvdrm.smil/Host=m.zoom.ush
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ducchq.png" group-title="Local Zoom free",Playlist Ex..Contact Admin Telegram @hansaka47 
-http://103.2.153.38/drm/smil:itndrm.smil/manifesggt.mpd|Host=m.zoom.us
+http://103.2.153.38/drm/smil:itndrm.smil/man|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/vztqoe.png" group-title="Local Zoom free",Star Tamil
-http://103.2.153.38/drm1/smil:startamildrm.smil/manifest.mhhpd|Host=m.zoom.us
+http://103.2.153.38/drm1/smil:startamildrm.smil/manifest.mhhp|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="" group-title="World Entertainment",KBS World 
+#EXTINF:-1 tvg-logo="" group-title="World Entertainment",KBS World Playlist Ex @hansaka47 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/51h800|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" World Entertainment",TVN
@@ -64,24 +64,24 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/71025|Hosht=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71040|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/t1.png" group-title="Hindi Entertainment",&TV HD
-http://watchindia.net:8880/40972/04523/782|Host=m.zoggom.us
+http://watchindia.net:8880/40972/04523t=m.zoggom.us
 
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-chno="167" group-title="Hindi Entertainment",Zee TV HD
-http://watchindia.net:8880/40972/04523/1970|Host=mh.zoom.us
+http://watchindia.net:8880/40972/0450|Host=mh.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/rishclr.png" group-title="Hindi Entertainment",Colors Rishtey
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6586/index.mh3u8|Host=m.zoom.us
+http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6586ex.mh3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/pict.png" group-title="Hindi Entertainment",&pictures HD
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1964|Host=hm.zoom.us
+http://yesimes.oknirvana.club:8880/D12m4576/93hm.zoom.us
 
 http://watchindia.net:8880/40972/04523/783|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="291" group-title="Hindi Entertainment",SET HD
-http://watchindia.net:8880/40972/04523/19h69|Host=m.zoom.us
+http://watchindia.net:8880/40972/04523/19h6ost=m.zoom.us
 
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="154" group-title="Hindi Entertainment",Sony SAB
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6571/index.m3uu8|Host=m.zoom.us
+http://89eb5c9e.edemist.com/iptv/CZD86TE/6571/index.m3uu8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-chno="144" group-title="Hindi Entertainment",Colors HD
 http://watchindia.net:8880/40972/04523/8g01|Host=m.zoom.us
@@ -104,15 +104,15 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/5526gg4|Host=m.zoom.us
 http://watchindia.net:8880/40972/04523/78hh5|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strgld2.png" group-title="Hindi Entertainment",Star Gold 2 HD
-http://510821146289.cdn-eag.com:80/live/mjd24_1419y90/8yEtPc10/277061.m3u8|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_1419EtPc10/277061.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strglds.png" group-title="Hindi Entertainment",Star Gold Select HD
-http://vocotv.pro:80/Kevin1/Kevin1/69409g8|Host=m.zoom.us
+http://vocotv.pro:80/Kevin1/Kevin18|Host=m.zoom.us
 
 http://watchindia.net:8880/40972/04523/784|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="Hindi Entertainment",Colors Cineplex HD
-http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6592/indexu.m3u8|Host=m.zoom.us
+http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/65dexu.m3u8|Host=m.zoom.us
 
 http://watchindia.net:8880/40972/04523/803|Host=m.zoom.us
 
@@ -137,7 +137,7 @@ http://supersonictv.live:8080/688223/944008/85446|Host=m.zoom.us
 http://watchindia.net:8880/40972/04523/787|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeeac.png" group-title="Hindi Entertainment",Action Cinema 
-http://watchindia.net:8880/40972/04523/821|Host=m.zoom.us
+http://watchindia.net:8880/40972/045221|Hosus
 
 http://watchindia.net:8880/40972/04523/821|Host=m.zoom.us
 
@@ -191,27 +191,7 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6589/index.um3u8|Host=m.zoom.us
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/51851|Host=m.zoom.us
 #EXTINF:0 group-title="World Entertainment" tvg-id="2461" tvg-logo="http://epg.one/img2/2461.png" tvg-rec="3",Arirang Korea
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/2071/indejx.m3u8|Host=m.zoom.us
-
-#EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/logos/showturk.png" , tvg-rec="3",Show TV 
-#EXTGRP:World Entertainment 
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6889/index.m3u8|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="http://epg.one/img2/3943.png" , tvg-rec="3",Show Max
-#EXTGRP:World Entertainment
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6890/index.mju3u8|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="http://epg.one/img2/3941.png" , tvg-rec="3",aTV 
-#EXTGRP:World Entertainment 
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2261/index.um3u8|Host=m.zoom.us
-#EXTINF:0 tvg-rec="3",Arirang Korea
-#EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo/UK/ITV1.png" , tvg-rec="0",ITV1 
-#EXTGRP:World Entertainment 
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/19185/index.m3iu8|Host=m.zoom.us
-#EXTGRP:World Entertainment 
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2071/index.m3uu8|Host=m.zoom.us
-
-#EXTINF:0 , tvg-logo="http://epg.one/img2/6648.png" , tvg-rec="0",ITV2
-#EXTGRP:World Entertainment
-http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19186/index.m3iu8|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" , tvg-rec="0",ITV 3
+.svg/1200px-ITV3_logo_2013.svg.png" , tvg-rec="0",ITV 3
 #EXTGRP:World Entertainment
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/19187/index.m3iu8|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="http://epg.one/img2/6651.png" , tvg-rec="0",ITV4
