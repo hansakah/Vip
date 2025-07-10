@@ -67,7 +67,7 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/71040|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/782.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-chno="167" group-title="Hindi Entertainment",Zee TV HD
-http://watchindia.net:8880/live/54355/61270/782.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/1970.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/rishclr.png" group-title="Hindi Entertainment",Colors Rishtey
 http://watchindia.net:8880/live/54355/61270/830.ts|Host=m.zoom.us
@@ -78,16 +78,16 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6586/index.m3u8|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/783.ts|Host=m.zoom.us
 
 
-#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="291" group-title="Hindi Entertainment",Sony SET
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="291" group-title="Hindi Entertainment",SET HD
 http://watchindia.net:8880/live/54355/61270/1969.ts|Host=m.zoom.us
 
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="154" group-title="Hindi Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="154" group-title="Hindi Entertainment",Sony Sab HD
 http://watchindia.net:8880/live/54355/61270/2323.ts|Host=m.zoom.us
 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6571/index.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-chno="144" group-title="Hindi Entertainment",Colors HD
-http://watchindia.net:8880/live/54355/61270/2323.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/801.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strbh.png" group-title="Hindi Entertainment",Star Bharat HD
 http://watchindia.net:8880/live/54355/61270/780.ts|Host=m.zoom.us
@@ -99,12 +99,12 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277020.m3u8|Host=m
 http://watchindia.net:8880/live/54355/61270/1924.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Entertainment",SONY MAX HD
-http://watchindia.net:8880/live/54355/61270/1924.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/788.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",SONY MAX 2
 http://watchindia.net:8880/live/54355/61270/2024.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strgld.png" group-title="Hindi Entertainment",Star Gold HD
-http://watchindia.net:8880/live/54355/61270/2024.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/785.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strgld2.png" group-title="Hindi Entertainment",Star Gold 2 HD
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277061.m3u8|Host=m.zoom.us
@@ -121,7 +121,7 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/55319|Host=m.zoom.us
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-chno="1763" group-title="Hindi Entertainment",Colors Cineplex Bollywood
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee Bollywood 
-http://watchindia.net:8880/40972/04523/822|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/822.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Hindi Entertainment",Sony Max
 
 
@@ -133,7 +133,7 @@ http://watchindia.net:8880/live/54355/61270/787.ts|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeeac.png" group-title="Hindi Entertainment",Action Cinema 
-http://watchindia.net:8880/live/54355/61270/787.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/821.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeeancn.png" group-title="Hindi Entertainment",Zee Anmol Cinema 
 http://watchindia.net:8880/live/54355/61270/820.ts|Host=m.zoom.us
@@ -168,7 +168,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6592/index.m3u8|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/2493.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi Entertainment",Sony Wah
-http://watchindia.net:8880/live/54355/61270/2493.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/814.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/3490.png" group-title="Hindi Entertainment",Zee Punjabi 
 http://watchindia.net:8880/live/54355/61270/1951.ts|Host=m.zoom.us
@@ -232,7 +232,7 @@ http://watchindia.net:8880/live/54355/61270/846.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/svijay1.png" group-title="TAMIL",Star Vijay 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71034|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/vijasp.png" group-title="TAMIL",Vijay Super HD
-http://watchindia.net:8880/live/54355/61270/2359.ts|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/2190.ts|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811//400159597|Host=m.zoom.us
 
@@ -240,7 +240,7 @@ http://ckfdagk.megakomo.xyz:900/8457027811//400159597|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/843.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunlf.png" group-title="TAMIL",Sun Life 
-http://watchindia.net:8880/40972/04523/847|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/847.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/ktv.png" group-title="TAMIL",KTV HD
 http://watchindia.net:8880/40972/04523/845|Host=m.zoom.us
