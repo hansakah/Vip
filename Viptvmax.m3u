@@ -296,54 +296,50 @@ http://watchindia.net:8880/live/54355/61270/858.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="TAMIL",Angel TV HD
 http://watchindia.net:8880/live/54355/61270/862.ts|Host=m.zoom.us
 
-#EXTINF:-1 group-title="World India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657f544e8821b23edf4c77fe/images/star_plus.png",Star Plus
-http://vocotv.pro:80/Kevin1/Kevin1/303524|Host=m.zoom.us
+#EXTINF:-1 group-title="World India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png",Sun TV
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052611|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/splus1.png" group-title="World India",Star Plus HD
-http://watchindia.net:8880/40972/04523/1924|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="World India",Zee Tamil 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052669|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/sony.png" group-title="World India",Set
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="World India",Set
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48936.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/uk/clrst.png" group-title="World India",Colors Rishtey
-http://wanicelife.com:8880/12mx010025/88122262/1924|Host=m.zoom.us
+http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6586/index.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/MBC/zeeaflam1.png" group-title="World India",Zee Alwan
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/2203|Host=m.zoom.us
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/284772|Host=m.zoom.us
 
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400281175|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/MBC/b4uaflam1.png" group-title="World India",Zee Aflam
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/2204|Host=m.zoom.us
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/284771|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400281174|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="World India",ZEE TV HD
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48941.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="World India",ZEE TV
-http://vocotv.pro:80/Kevin1/Kevin1/276575|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="World India",ZEE CINEMA
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052666|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/clrsg.png" group-title="World India",Colors 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1928|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052464|Host=m.zoom.us
 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159419|Host=m.zoom.us
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/mbcbolly.png" group-title="Test",Test
-http://103.2.153.38/drm1/smil:sandatvdrm.smil/manifest.mpd|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/mbcbolly.png" group-title="World India",MBC Bollywood 
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/284767|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Hindi Entertainment",Colors Gujarati
 http://watchindia.net:8880/live/54355/61270/1006.ts|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187020|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/bollywold.png" group-title="Hindi Entertainment",Bollywood HD
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1939|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turksinema/bollywold.png" group-title="World India",Bollywood HD
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/395861|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/humt.png" group-title="World Entertainment", Hum TV HD
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1891|Host=m.zoom.us
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/323333|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="World India",Sony Sab
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48938.m3u8|Host=m.zoom.us
@@ -359,13 +355,13 @@ http://vocotv.pro:80/Kevin1/Kevin1/276577|Host=m.zoom.us
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48942.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="World India",Sony Max
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48937.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="World India",Colors Cineplex Test
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="World India",Colors Cineplex 
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48950.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colrind.png" group-title="English Entertainment",Colors Infinity HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/378760|Host=m.zoom.us
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/318994|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeecf1.png" group-title="English Entertainment",Zee Cafe HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159470|Host=m.zoom.us
+http://m3u.pott.tv:8080/8238409485355969/8238409485355969/318873|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="English Entertainment",BBC Lifestyle 
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/71120|Host=m.zoom.us
