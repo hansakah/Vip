@@ -347,10 +347,10 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48938.m3u8|Host=m.
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48940.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="World India",Utsav Plus
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/510907.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="World India",Utsav Bharat
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/55227|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="World India",Utsav Gold
-http://vocotv.pro:80/Kevin1/Kevin1/276577|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/clrsg.png" group-title="World India",Colors Hindi 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052463|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="World India",Colors Tamil 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052467|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zecn1.png" group-title="World India",Zee Cinema 
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48942.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="World India",Sony Max
@@ -360,11 +360,11 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48950.m3u8|Host=m.
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colrind.png" group-title="English Entertainment",Colors Infinity HD
 http://m3u.pott.tv:8080/8238409485355969/8238409485355969/318994|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/zeecf1.png" group-title="English Entertainment",Zee Cafe HD
-http://m3u.pott.tv:8080/8238409485355969/8238409485355969/318873|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="English Entertainment",AXN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052416|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="English Entertainment",BBC Lifestyle 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/71120|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052422|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://epg.one/img2/3627.png" group-title="English Entertainment",Lifetime 
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6484/index.m3u8|Host=m.zoom.us
 #EXTINF:-1 group-title=" English Entertainment",Comedy Central 
@@ -372,9 +372,10 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360526|Host=m.zoom.us
 
 #EXTINF:-1 group-title=" English Entertainment",E!
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360524|Host=m.zoom.us
-
-#EXTINF:-1 tvg-logo="" group-title="English Entertainment",A&E
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360568|Host=m.zoom.us
+#EXTINF:-1 group-title=" English Entertainment",HITS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052520|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="English Entertainment",HITS NOW
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052524|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187087|Host=m.zoom.us
 
@@ -385,7 +386,7 @@ http://watchindia.net:8880/live/54355/61270/827.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV
 http://watchindia.net:8880/live/54355/61270/2062.ts|Host=m.zoom.us
 
-#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",Mtv India 
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV India 
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6582/index.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Star Maa Music 
@@ -429,12 +430,14 @@ http://watchindia.net:8880/live/54355/61270/2103.ts|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/2088.ts|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",CINEMAX 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052452|Host=m.zoom.us
-#EXTINF:-1 group-title=" Movies",HBO Hits 
+#EXTINF:-1 group-title=" Movies",HBO Hits HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052513|Host=m.zoom.us
+#EXTINF:-1 group-title=" Movies",HBO Hits
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052511|Host=m.zoom.us
 #EXTINF:-1 group-title="Movies",BOO
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052387|Host=m.zoom.us
-
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1697|Host=m.zoom.us
+#EXTINF:-1 group-title=" Movies",Celestial Movies 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052448|Host=m.zoom.us
 
 
 #EXTINF:-1 group-title=" Movies",Hits Movies 
@@ -490,39 +493,39 @@ http://yesimes.oknirvana.club:8880/D12m4576/93732754/3140|Host=m.zoom.us
 #EXTINF:0 tvg-rec="0",Food Food 
 #EXTGRP:Edutainment
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6583/index.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/travt.png" group-title="Edutainment",Travelxp
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/55232|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Edutainment",Travelxp
+http://watchindia.net:8880/live/54355/61270/792.ts|Host=m.zoom.us
 
 http://watchindia.net:8880/40972/04523/792|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Edutainment",TLC
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/55240|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/epic.png" group-title="Edutainment",EPIC 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1908|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052614|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Edutainment",History TV
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052517|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/safr.png" group-title="Edutainment",Safari TV
-http://watchindia.net:8880/40972/04523/1301|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/1301.ts|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 
-#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-chno="286" group-title="Edutainment",Animal Planet 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1959|Host=m.zoom.us
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="" tvg-chno="286" group-title="Edutainment",Discovery Asia
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052476|Host=m.zoom.us
 
 http://103.2.153.38/drm1/smil:sandatvdrm.smil/manifest.mpd|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/ntgew.png" group-title="Edutainment",Nat Geo Wild 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159486|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Edutainment",HGTV
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957723|Host=m.zoom.us
 
 #EXTINF:0 , tvg-logo="http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg" , tvg-rec="0",Animal Planet 
 #EXTGRP:Edutainment
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/31541/index.m3u8|Host=m.zoom.us
 
 #EXTINF:0 tvg-id="ext" group-title="Edutainment",Love Nature 
-http://defaultgen.com:3050/angel.ervin@rci.com/1dT6bUOVOp/418487|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052551|Host=m.zoom.us
 
 
 #EXTINF:0 , tvg-logo="" , tvg-id="ext" group-title="Edutainment",BBC Earth 
-http://defaultgen.com:3050/angel.ervin@rci.com/1dT6bUOVOp/423700|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052419|Host=m.zoom.us
 
 
 
@@ -639,45 +642,45 @@ http://watchindia.net:8880/live/54355/61270/1001.ts|Host=m.zoom.us
 
 marathi
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strpr.png" group-title="MARATHI",Star Pravah HD
-http://watchindia.net:8880/40972/04523/918|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/918.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeyuv.png" group-title="MARATHI",Zee Yuva 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/378727|Host=m.zoom.us
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="MARATHI",Sony Marathi
-http://watchindia.net:8880/40972/04523/919|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/919.ts|Host=m.zoom.us
 
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159608|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zemar.png" group-title="MARATHI",Zee Marathi
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1321|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/913.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="MARATHI",Colors Marathi HD
-http://watchindia.net:8880/40972/04523/912|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/912.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="MARATHI",Sony Aath
-http://supersonictv.live:8080/688223/944008/85634|Host=m.zoom.us
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="MARATHI",Sun Marathi 
 http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/6027|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/anmpl.png" group-title="Edutainment",Animal Planet HD
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186986|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/2039.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dis.png" group-title="Edutainment",DISCOVERY HD
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/71071|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052478|Host=m.zoom.us
 #EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK109:Nat Geo Wild" tvg-logo="" group-title="Edutainment",Nat Geo Wild
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/28950|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/2047.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-id="love.nature.4k.gb" tvg-name="UK266:Love Nature" tvg-logo="" group-title="Edutainment",Love Nature
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/28793|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052553|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186963|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/ntge.png" group-title="Edutainment",National Geographic HD
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/55352|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="Edutainment",DMAX
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856872|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Edutainment",Asian Food Network 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957702|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Edutainment",Global Trekker
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052496|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="News",BBC World News
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/60508|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957698|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/winns.png" group-title="News",WION
-http://watchindia.net:8880/40972/04523/816|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/816.ts|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNA
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/71065|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052453|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/cnn.png" group-title="News",CNN
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/3147|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/jzr.png" group-title="News",AL JAZEERA
