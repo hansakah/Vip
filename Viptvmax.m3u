@@ -218,8 +218,9 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/1092/index.m3u8|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/mbcbolly.png" group-title="Test",Test
-http://103.2.153.38/drm1/smil:sandatvdrm.smil/manifest.mpd|Host=m.zoom.us
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/mbcbolly.png" group-title="Edutainment",Outdoor Channel
+http://watchindia.net:8880/live/54355/61270/2119.ts|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment",SONY PAL 
@@ -385,7 +386,8 @@ http://watchindia.net:8880/live/54355/61270/827.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV
 http://watchindia.net:8880/live/54355/61270/2062.ts|Host=m.zoom.us
-
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV AsiaAsia
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260543|Host=m.zoom.us
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV India 
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6582/index.m3u8|Host=m.zoom.us
 
@@ -424,7 +426,7 @@ http://watchindia.net:8880/live/54355/61270/2080.ts|Host=m.zoom.us
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277007.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mnx.png" group-title="Movies",MNX HD
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277006.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/priv.png" group-title="Movies",&prive HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies",&prive HD
 http://watchindia.net:8880/live/54355/61270/2103.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bflmx.png" group-title="Movies",&flix HD
 http://watchindia.net:8880/live/54355/61270/2088.ts|Host=m.zoom.us
@@ -453,8 +455,8 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052504|Host=m.zoom.us
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052651|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mnmv1.png" group-title=" Movies",MN+ HD
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277008.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="",group-title=" Movies",Lifetime Movies 
-http://1tvnow.icu:8080/linda@randell/075@570/20863|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="",group-title=" Movies",Astro Showcase 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052584|Host=m.zoom.us
 Kids
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/DISNEY INTERNATION.png" group-title="Kids",Disney International 
