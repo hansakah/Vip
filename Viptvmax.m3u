@@ -139,7 +139,7 @@ http://watchindia.net:8880/live/54355/61270/821.ts|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/820.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Hindi Entertainment",Big Magic 
-https://watch.livecricketsl.xyz/playlist/exp.mpd
+
 
 http://supersonictv.live:8080/688223/944008/85445|Host=m.zoom.us
 
@@ -219,7 +219,7 @@ http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/1092/index.m3u8|Host=m.zoom.us
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/mbcbolly.png" group-title="Edutainment",Outdoor Channel
+#EXTINF:-1 tvg-logo="" group-title="Edutainment",Outdoor Channel
 http://watchindia.net:8880/live/54355/61270/2119.ts|Host=m.zoom.us
 
 
@@ -386,7 +386,7 @@ http://watchindia.net:8880/live/54355/61270/827.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV
 http://watchindia.net:8880/live/54355/61270/2062.ts|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV AsiaAsia
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Asia
 http://bestp55.xyz:80/A7FC77529786/519C32219872/260543|Host=m.zoom.us
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV India 
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6582/index.m3u8|Host=m.zoom.us
@@ -464,37 +464,38 @@ Kids
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/SONY YAY.png" group-title="Kids",Sony YAY!
 http://watchindia.net:8880/live/54355/61270/2104.ts|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="" group-title=" Kids",Nicktoons
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/28891|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title=" Kids",Nicktoons
+http://watchindia.net:8880/live/54355/61270/2049.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/nickj.png" group-title="Kids",Nick Jr
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/28951|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052566|Host=m.zoom.us
 
-#EXTINF:0 tvg-rec="7",Gulli Girl
+#EXTINF:0 tvg-rec="7",Astro Ceria
 #EXTGRP:Kids
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/109/index.m3u8|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052390|Host=m.zoom.us
 
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/nickelodeon.png" , tvg-rec="7",Nickelodeon
 #EXTGRP:Kids
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/541/index.m3u8|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957707|Host=m.zoom.us
 
- #EXTINF:-1 group-title=" Kids",Nickelodeon
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856897|Host=m.zoom.us
+#EXTINF:-1 group-title=" Kids",Disney Channel 
+http://watchindia.net:8880/live/54355/61270/2046.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/crtnet.png" group-title="Kids",Cartoon Network 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/71084|Host=m.zoom.us
-
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/75417|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052437|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network HD+
+http://watchindia.net:8880/live/54355/61270/2718.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Moonbug
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/71061|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052556|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="Kids",Disney XD 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/3140|Host=m.zoom.us
-
-#EXTINF:0 tvg-rec="0",Food Food 
-#EXTGRP:Edutainment
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6583/index.m3u8|Host=m.zoom.us
+http://watchindia.net:8880/live/54355/61270/2066.ts|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick
+http://watchindia.net:8880/live/54355/61270/2182.ts|Host=m.zoom.us
+#EXTINF:0 tvg-rec="0",Nick HD+
+#EXTGRP:Kids
+http://watchindia.net:8880/live/54355/61270/2237.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Edutainment",Travelxp
 http://watchindia.net:8880/live/54355/61270/792.ts|Host=m.zoom.us
 
@@ -660,7 +661,7 @@ http://watchindia.net:8880/live/54355/61270/912.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="MARATHI",Sony Aath
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="MARATHI",Sun Marathi 
-http://www.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/6027|Host=m.zoom.us
+
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/anmpl.png" group-title="Edutainment",Animal Planet HD
 http://watchindia.net:8880/live/54355/61270/2039.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dis.png" group-title="Edutainment",DISCOVERY HD
@@ -684,19 +685,19 @@ http://watchindia.net:8880/live/54355/61270/816.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="News",CNA
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052453|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/cnn.png" group-title="News",CNN
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/3147|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052462|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/jzr.png" group-title="News",AL JAZEERA
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/26595|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052534|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dwnew.png" group-title="News",DW English 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/60510|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260553|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV INDIA
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277022.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/zeens.png" group-title="News",Zee News
-http://watchindia.net:8880/40972/04523/832|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="News",Sun News
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052607|Host=m.zoom.us
 #EXTINF:-1 group-title=" News",CGTN 
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856860|Host=m.zoom.us
-#EXTINF:-1 tvg-id="the.weather.us" tvg-name="US083:The Weather Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US083WEATHER.png" group-title="News",The Weather Channel 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/3085|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052450|Host=m.zoom.us
+#EXTINF:-1 tvg-id="the.weather.us" tvg-name="US083:The Weather Channel HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" group-title="News",ABC Australia 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052365|Host=m.zoom.us
 #EXTINF:0 group-title="Sports" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sport1 HD
 http://rhsbjv7k.tvclub.xyz/iptv/3K5Z3VE8M7N89U/2508/index.m3u8|Host=m.zoom.us
 #EXTINF:0 group-title="Sports" tvg-id="2891" tvg-logo="http://epg.one/img/2891.png" tvg-rec="3",Star Sports 2 HD
@@ -798,6 +799,8 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966f
 #EXTINF:-1 tvg-logo="" group-title="Data Charging TV",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_high/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Data Charging TV",Rangiri Sri Lanka
+
+
 https://aps12.playlist.ttvnw.net/v1/playlist/CsYGZXBj-rCSl0Bq2zJJBzhlBNBYPEgs1QAr375pX_Lp3ldp1V558tMGQBaLHXT2nL0iB7LsVMQT_k4PLq2vU7noQSVm0q7IE4VRt0NxvWURE9ty4TaTREvMytN-v5_ew8wNj7GiDzhYjbtEaUtzoOTNnUbm96fEJ9maiMiZNKOSVLp73NpFeHAHq5Z7qWwErwHUt-6VX7wOMBapt9-j2JD431oC6JhriDs-uXTA58p5n2re0FcR1ymW0x7-lxtxb3E2rc0hNLhKmaMl-yyI027Ky53IigRtML4LDL20wbfygUmAfOSF-s_HzZm--MVH4ggBe1cAET342fn7a24HlWpQ8pI1PHycmMnNMXUH7jg7ZScsjKea_tZnp4-eHPETar_AnLlgaP0-jk99SdhDF-Ko93AsyeguooywVpYFFVDHAsBzwpzxY4cGiVC4CgjPlM-CUJ39QAS35mSNvIm3lxq9FNt2BT-S4wO9W05Djs7Dw9cTvcTXPGE60gPuSjtWdB39AGezTmeOd1LPqLQIOSj80h7h3uoJDjBBCAB-7ac3NWcmVluTm0FiGJqLfBaZ-nuYnqfl-7kgbKEEMiAQcDBA0v2mbviVUOp7OWp0wWoAc1pQle13pzTk7OiH-FP_wIZ7ce62x2NYyRaWsIfHHeXtI_K7_jCw6e2waic3re5DdTfp0oH2y-TCwrWSugorZo27BBNdz1BDfTRodg5DML6_LmId4Rh8hSN0ahIDDpohz7RG765ptfPDGwhjveyEHv7ZTfE1Gynn8gTbkxchwV7diEB6OOJ9r84qPA_MTdrPKqIxjnbFzwh2vFt0gLVeLdw3GwOUvRK4KgkPJhnBcQf06aEtVaaBiGrayqBsDj33mmQm0-PRMUzJL7MGPGT0aUdl5iHHX59lGePtHz24nAJ3l7xEbxiqu6q7tkh3B1inQnGe6h7ecyf2Zj2Xyr6GK_Vg5eunRv8n5JwfbdZA6JLSEjxs7Gwq15Kvl-_QyNc3sm75TdQQc3nbWf05Mjz6CNMIU76cKXT_1wBXBQMDPIlCzeNeRMRxtW3ekAStN6DgRslQ2yAqVz0k1NhoDeRHa-mixCsr1WYwrlGkZM9Xu-F_8xbpCwU2EhoMBjjzNm1iuI-V9EndIAEqCXVzLXdlc3QtMjDMDA.m3u8
 Bollywood 
 
@@ -1005,15 +1008,15 @@ http://eu.germanydns.org:8080/movie/rifaninkaynanasi/ftznpmuw/71516.mp4|Host=m.z
 http://eu.germanydns.org:8080/movie/rifaninkaynanasi/ftznpmuw/71583.mp4|Host=m.zoom.us
 #EXTINF:-1 tvg-id="" tvg-name="DIS:Mulan II 2004" tvg-logo="http://germanydns.com:8000/images/movies/8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg" group-title="DISNEY PLUS",DIS:Mulan II 2004
 http://eu.germanydns.org:8080/movie/rifaninkaynanasi/ftznpmuw/71450.mp4|Host=m.zoom.us
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthe Aa Tharu Kumara EP1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP1
 https://downloader.f2lp.workers.dev/49752/CK.Drama.My.Love.From.The.Star.E04.x264.580p+NF.WEB_DL.mp4?hash=AgADKR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthe Aa Tharu Kumara EP2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP2
 https://downloader.f2lp.workers.dev/49761/CK.Drama.My.Love.From.The.Star.E10.x264.580p+NF.WEB_DL+PART.mkv?hash=AgADdB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthe Aa Tharu Kumara EP3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP3
 https://downloader.f2lp.workers.dev/49779/CK.Drama.My.Love.From.The.Star.E10.x264.580p+NF.WEB_DL+PART.mkv?hash=AgADdh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthe Aa Tharu Kumara EP4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP4
 https://downloader.f2lp.workers.dev/49782/CK.Drama.My.Love.From.The.Star.E15.x264.580p+NF.WEB_DL.mp4?hash=AgAD0h
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthe Aa Tharu Kumara EP5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP5
 https://downloader.f2lp.workers.dev/49785/CK.Drama.My.Love.From.The.Star.E20.x264.580p+NF.WEB_DL.mp4?hash=AgADOx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthe Aa Tharu Kumara EP6 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP6 
 https://downloader.f2lp.workers.dev/49797/CK.Drama.My.Love.From.The.Star.E21.x264.BluRay.720p.Pahe.in.mkv?hash=AgADER
