@@ -380,8 +380,8 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052524|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187087|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/9xm.png" group-title="Music",9XM 
-http://watchindia.net:8880/live/54355/61270/827.ts|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/39785.m3u8|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV 90s
@@ -395,16 +395,22 @@ http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/6582/index.m3u8|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/2192.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276929.m3u8|Host=m.zoom.us
+##
 http://watchindia.net:8880/live/54355/61270/842.ts|Host=m.zoom.us
 
 http://watchindia.net:8880/40972/04523/842|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/masti.png" group-title="Music",MASTIII HD
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277021.m3u8|Host=m.zoom.us
+##
 http://watchindia.net:8880/live/54355/61270/826.ts|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159448|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/msind.png" group-title="Music",Music India
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276969.m3u8|Host=m.zoom.us
+###
 http://watchindia.net:8880/live/54355/61270/2293.ts|Host=m.zoom.us
  
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187157|Host=m.zoom.us
@@ -415,6 +421,8 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230389.m3u8|Host=m.z
 http://watchindia.net:8880/live/54355/61270/2113.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunms.png" group-title="Music",Sun Music HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052602|Host=m.zoom.us
+nn
 http://watchindia.net:8880/live/54355/61270/844.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",SONY PIX HD
@@ -762,8 +770,9 @@ http://watchindia.net:8880/40972/04523/2662|Host=m.zoom.us
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:B5:A9:F8&stream=39975&extension=ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel 
-http://watchindia.net:8880/live/54355/61270/2358.ts|Host=m.zoom.us
-
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181415.m3u8|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel 2
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401617836.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/WILLOW CRICKET HD.png" group-title="Sports",Willow Cricket
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:B5:A9:F8&stream=39955&extension=ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport
@@ -778,24 +787,26 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/280827.m3u8|Host=m
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/280828.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/Hub Sports 3.png" group-title="Sports",Hub Sports 3
-http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/280829.m3u8|Host=m.zoom.us
+
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/Hub Sports 4.png" group-title="Sports",Hub Sports 4
-http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/280830.m3u8|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="Sports",W Sports 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",WSports 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052657|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2889.png" group-title="Sports",TNT Sports 1
-http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/2505/index.m3u8|Host=m.zoom.us
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401338315.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://epg.one/img2/4577.png" group-title="Sports",Sky Sports Cricket 
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/7343/ind|Host=m.zoom.us
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:B5:A9:F8&stream=39975&extension=ts|Host=m.zoom.usex.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="Sports",WWE Network
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:B5:A9:F8&stream=47353&extension=ts|Host=m.zoom.us
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="Sports",BEIN SPORTS 1 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/28808|Host=m.zoom.us
-#EXTINF:-1 tvg-id="" tvg-name="UK252:BEIN SPORTS 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="Sports",BEIN SPORTS 2 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/28807|Host=m.zoom.us
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="" group-title="Sports",BEIN SPORTS 1 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052432|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="UK252:BEIN SPORTS 2 " tvg-logo="" group-title="Sports",BEIN SPORTS 2 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052426|Host=m.zoom.us
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="" group-title="Sports",BEIN SPORTS 3
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052430|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Data Charging TV",Swarnawahini 
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Data Charging TV",Siyatha TV
