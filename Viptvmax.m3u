@@ -115,7 +115,7 @@ http://watchindia.net:8880/live/54355/61270/784.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/colcin.png" group-title="Hindi Entertainment",Colors Cineplex HD
 http://watchindia.net:8880/live/54355/61270/803.ts|Host=m.zoom.us
 
-#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-chno="1450" group-title="Hindi Entertainment",Colors Cineplex Superhits
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-country="IN" tvg-logo="https://png.pngtree.com/png-vector/20231127/ourmid/pngtree-test-red-flat-icon-isolated-product-png-image_10722512.png" group-title="Hindi Entertainment",Channel 34
 http://yesimes.oknirvana.club:8880/D12m4576/93732754/55319|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-chno="1763" group-title="Hindi Entertainment",Colors Cineplex Bollywood
@@ -125,7 +125,7 @@ http://watchindia.net:8880/live/54355/61270/822.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Hindi Entertainment",Sony Max
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",B4U Plus
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20231127/ourmid/pngtree-test-red-flat-icon-isolated-product-png-image_10722512.png" group-title="Hindi Entertainment",Channel 36
 http://watchindia.net:8880/live/54355/61270/823.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zecn1.png" group-title="Hindi Entertainment",Zee Cinema HD
@@ -138,13 +138,11 @@ http://watchindia.net:8880/live/54355/61270/821.ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/zeeancn.png" group-title="Hindi Entertainment",Zee Anmol Cinema 
 http://watchindia.net:8880/live/54355/61270/820.ts|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Hindi Entertainment",Big Magic 
-
-
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20231127/ourmid/pngtree-test-red-flat-icon-isolated-product-png-image_10722512.png" group-title="Hindi Entertainment",Channel 40
 http://supersonictv.live:8080/688223/944008/85445|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Hindi Entertainment",B4U Movies 
-http://yesimes.oknirvana.club:8880/D12m4576/93732754/1942|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276924.m3u8|Host=m.zoom.us
 
 http://supersonictv.live:8080/688223/944008/85438|Host=m.zoom.us
 
@@ -152,10 +150,10 @@ http://supersonictv.live:8080/688223/944008/85438|Host=m.zoom.us
 
 
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/zeeanm1.png" group-title="Hindi Entertainment",Zee Anmol
-http://watchindia.net:8880/live/54355/61270/813.ts|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL/images/LOGO_HD/image.png" group-title="Hindi Entertainment",Zee Anmol 
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276989.m3u8|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/zeet.png" group-title="Hindi Entertainment",Zee Cinema 
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20231127/ourmid/pngtree-test-red-flat-icon-isolated-product-png-image_10722512.png" group-title="Hindi Entertainment",Channel 43
 https://watch.livecricketsl.xyz/playlist/exp.mpd
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/3414.png" group-title="Hindi Entertainment",Zee Classic 
@@ -188,8 +186,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/2071/index.m3u8|Host=m.zoom.us
 
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/logos/showturk.png" , tvg-rec="3",Show TV 
 #EXTGRP:World Entertainment 
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6797/index.m3u8|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="" , tvg-rec="3",Cti Asia
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191482.m3u8|Host=m.zoom.us
+#EXTINF:0 , tvg-logo="" , tvg-rec="3",cti Asia
 #EXTGRP:World Entertainment
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052474|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="" , tvg-rec="3",Astro Vellithirai
@@ -198,7 +196,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052413|Host=m.zoom.us
 #EXTINF:0 tvg-rec="3",Arirang Korea
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo/UK/ITV1.png" , tvg-rec="0",ITV1 
 #EXTGRP:World Entertainment 
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/19185/index.m3u8|Host=m.zoom.us
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401440496.m3u8|Host=m.zoom.us
 #EXTGRP:World Entertainment 
 http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/2071/index.m3u8|Host=m.zoom.us
 
@@ -220,7 +218,7 @@ http://watchindia.net:8880/live/54355/61270/2055.ts|Host=m.zoom.us
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
 
 #EXTINF:-1 tvg-logo="" group-title="Edutainment",Outdoor Channel
-http://watchindia.net:8880/live/54355/61270/2119.ts|Host=m.zoom.us
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment",SONY PAL 
