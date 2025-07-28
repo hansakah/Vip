@@ -384,8 +384,8 @@ http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187087|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/827.ts|Host=m.zoom.us
 
 
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV
-http://watchindia.net:8880/live/54355/61270/2062.ts|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV 90s
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191719.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/260543|Host=m.zoom.us
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV India 
@@ -409,7 +409,9 @@ http://watchindia.net:8880/live/54355/61270/2293.ts|Host=m.zoom.us
  
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187157|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/b4ms.png" group-title="Music",B4U Music 
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/b4ms.png" group-title="Music",B4U Music
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230389.m3u8|Host=m.zoom.us
+
 http://watchindia.net:8880/live/54355/61270/2113.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunms.png" group-title="Music",Sun Music HD
