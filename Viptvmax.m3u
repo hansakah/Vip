@@ -222,7 +222,7 @@ http://watchindia.net:8880/live/54355/61270/2055.ts|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment",SONY PAL 
-http://watchindia.net:8880/live/54355/61270/812.ts|Host=m.zoom.us
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276921.m3u8|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187260|Host=m.zoom.us
 
@@ -239,9 +239,13 @@ http://ckfdagk.megakomo.xyz:900/8457027811//400159597|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/843.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunlf.png" group-title="TAMIL",Sun Life 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052599|Host=m.zoom.us
+##
 http://watchindia.net:8880/live/54355/61270/847.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/ktv.png" group-title="TAMIL",KTV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052544|Host=m.zoom.us
+#
 http://watchindia.net:8880/live/54355/61270/845.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/siripol.png" group-title="TAMIL",Sirippoli
@@ -293,7 +297,7 @@ http://watchindia.net:8880/live/54355/61270/2762.ts|Host=m.zoom.us
 http://watchindia.net:8880/live/54355/61270/858.ts|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="TAMIL",Angel TV HD
-http://watchindia.net:8880/live/54355/61270/862.ts|Host=m.zoom.us
+
 
 #EXTINF:-1 group-title="World India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png",Sun TV
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052611|Host=m.zoom.us
@@ -301,11 +305,11 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052611|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="World India",Zee Tamil 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052669|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="World India",Set
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="World India",Sony Tv
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/48936.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/uk/clrst.png" group-title="World India",Colors Rishtey
-http://89eb5c9e.edemist.com/iptv/CZD86TE8H2KRHK/6586/index.m3u8|Host=m.zoom.us
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191549.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/MBC/zeeaflam1.png" group-title="World India",Zee Alwan
 http://m3u.pott.tv:8080/8238409485355969/8238409485355969/284772|Host=m.zoom.us
