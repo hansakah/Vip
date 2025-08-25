@@ -815,7 +815,14 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966f
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://talenttv.lk/logo-footer.png" group-title="Data Charging TV",Talent Tv
 https://5eefe582b5018010.mediapackage.eu-north-1.amazonaws.com/out/v1/8b284a6602fa41d3b5483dfa2c1f6903/index_4.m3u8
-
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/dmikwb.png" group-title="Data Charging TV",Shakthi TV
+https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/wiyovh.png" group-title="Data Charging TV",Nethra TV
+https://edge3-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/vztqoe.png" group-title="Data Charging TV",Star Tamil 
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ngfsik.png" group-title="Data Charging TV",Vasantham TV
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
 https://aps12.playlist.ttvnw.net/v1/playlist/CsYGZXBj-rCSl0Bq2zJJBzhlBNBYPEgs1QAr375pX_Lp3ldp1V558tMGQBaLHXT2nL0iB7LsVMQT_k4PLq2vU7noQSVm0q7IE4VRt0NxvWURE9ty4TaTREvMytN-v5_ew8wNj7GiDzhYjbtEaUtzoOTNnUbm96fEJ9maiMiZNKOSVLp73NpFeHAHq5Z7qWwErwHUt-6VX7wOMBapt9-j2JD431oC6JhriDs-uXTA58p5n2re0FcR1ymW0x7-lxtxb3E2rc0hNLhKmaMl-yyI027Ky53IigRtML4LDL20wbfygUmAfOSF-s_HzZm--MVH4ggBe1cAET342fn7a24HlWpQ8pI1PHycmMnNMXUH7jg7ZScsjKea_tZnp4-eHPETar_AnLlgaP0-jk99SdhDF-Ko93AsyeguooywVpYFFVDHAsBzwpzxY4cGiVC4CgjPlM-CUJ39QAS35mSNvIm3lxq9FNt2BT-S4wO9W05Djs7Dw9cTvcTXPGE60gPuSjtWdB39AGezTmeOd1LPqLQIOSj80h7h3uoJDjBBCAB-7ac3NWcmVluTm0FiGJqLfBaZ-nuYnqfl-7kgbKEEMiAQcDBA0v2mbviVUOp7OWp0wWoAc1pQle13pzTk7OiH-FP_wIZ7ce62x2NYyRaWsIfHHeXtI_K7_jCw6e2waic3re5DdTfp0oH2y-TCwrWSugorZo27BBNdz1BDfTRodg5DML6_LmId4Rh8hSN0ahIDDpohz7RG765ptfPDGwhjveyEHv7ZTfE1Gynn8gTbkxchwV7diEB6OOJ9r84qPA_MTdrPKqIxjnbFzwh2vFt0gLVeLdw3GwOUvRK4KgkPJhnBcQf06aEtVaaBiGrayqBsDj33mmQm0-PRMUzJL7MGPGT0aUdl5iHHX59lGePtHz24nAJ3l7xEbxiqu6q7tkh3B1inQnGe6h7ecyf2Zj2Xyr6GK_Vg5eunRv8n5JwfbdZA6JLSEjxs7Gwq15Kvl-_QyNc3sm75TdQQc3nbWf05Mjz6CNMIU76cKXT_1wBXBQMDPIlCzeNeRMRxtW3ekAStN6DgRslQ2yAqVz0k1NhoDeRHa-mixCsr1WYwrlGkZM9Xu-F_8xbpCwU2EhoMBjjzNm1iuI-V9EndIAEqCXVzLXdlc3QtMjDMDA.m3u8
 Bollywood 
 
@@ -1007,4 +1014,5 @@ https://downloader.f2lp.workers.dev/49782/CK.Drama.My.Love.From.The.Star.E15.x26
 https://downloader.f2lp.workers.dev/49785/CK.Drama.My.Love.From.The.Star.E20.x264.580p+NF.WEB_DL.mp4?hash=AgADOx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pravee Drama",Ananthen Aa Tharu Kumara EP6 
 https://downloader.f2lp.workers.dev/49797/CK.Drama.My.Love.From.The.Star.E21.x264.BluRay.720p.Pahe.in.mkv?hash=AgADER
+
 
