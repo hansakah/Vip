@@ -142,9 +142,9 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/39772|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="https://go4.pw/ASIA/tvbs.png" , tvg-rec="3",TVBS Asia
 #EXTGRP:World Entertainment
 http://bestp55.xyz:80/A7FC77529786/519C32219872/269918|Host=m.zoom.us
-#EXTINF:0 , tvg-logo="" , tvg-rec="3",Astro Vellithirai
+#EXTINF:0 , tvg-logo="" , tvg-rec="3",CNBC Asia
 #EXTGRP:World Entertainment 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052413|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052456|Host=m.zoom.us
 #EXTINF:0 tvg-rec="3",Arirang Korea
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo/UK/ITV1.png" , tvg-rec="0",ITV1 
 #EXTGRP:World Entertainment 
@@ -180,7 +180,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052517|Host=m.zoom.us
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052695|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="" tvg-chno="286" group-title="Edutainment",Discovery Asia
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052476|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052475|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Edutainment",HGTV
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957723|Host=m.zoom.us
@@ -194,16 +194,16 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052551|Host=m.zoom.us
 
 
 #EXTINF:0 , tvg-logo="" , tvg-id="ext" group-title="Edutainment",BBC Earth 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052419|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052418|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/anmpl.png" group-title="Edutainment",Animal Planet HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/34716|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/dis.png" group-title="Edutainment",DISCOVERY HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052478|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957717|Host=m.zoom.us
 #EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK109:Nat Geo Wild" tvg-logo="https://go4.pw/ASIA/INDIAN/NATGEOWILDHDD.png" group-title="Edutainment",Nat Geo Wild
 http://bestp55.xyz:80/A7FC77529786/519C32219872/34694|Host=m.zoom.us
 #EXTINF:-1 tvg-id="love.nature.4k.gb" tvg-name="UK266:Love Nature" tvg-logo="" group-title="Edutainment",Love Nature
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052553|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052552|Host=m.zoom.us
 
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186963|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Edutainment",Asian Food Network 
@@ -230,7 +230,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/34706|Host=m.zoom.us
 
 #EXTINF:0 , tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/nickelodeon.png" , tvg-rec="7",Nickelodeon
 #EXTGRP:Kids
-http://bestp55.xyz:80/A7FC77529786/519C32219872/957707|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052569|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/DISNEYHD.png" group-title=" Kids",Disney Channel 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/108886|Host=m.zoom.us
@@ -241,7 +241,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052437|Host=m.zoom.us
 http://bestp55.xyz:80/A7FC77529786/519C32219872/543280|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Moonbug
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052556|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052555|Host=m.zoom.us
 
 #EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="Kids",Disney Jr
 http://bestp55.xyz:80/A7FC77529786/519C32219872/175130|Host=m.zoom.us
@@ -367,7 +367,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/73315|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEETV.png" group-title="Hindi Entertainment",ZEE TV
 http://bestp55.xyz:80/A7FC77529786/519C32219872/72504|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil Entertainment",Zee Cinema
+#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee Cinema
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052664|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment",Zee Cinema
 
@@ -385,7 +385,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/72097|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunlf.png" group-title="Tamil Entertainment",Sun Life 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/72122|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/ktv.png" group-title="Tamil Entertainment",KTV HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052544|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052542|Host=m.zoom.us
 #EXTINF:0 , tvg-logo="" , tvg-rec="3",Astro Vellithirai
 #EXTGRP:Tamil Entertainment 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052413|Host=m.zoom.us
@@ -429,10 +429,10 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/34731|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/Colors_Infinityhd.png" group-title="English Entertainment",Colors Infinity HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/34710|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="English Entertainment",AXN HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052416|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052415|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="English Entertainment",BBC Lifestyle 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052422|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052421|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://epg.one/img2/3627.png" group-title="English Entertainment",Lifetime 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052545|Host=m.zoom.us
 ##
@@ -467,13 +467,13 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/808789|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMAPREMIER.png" group-title=" Movies",Sky Cinema Premier 
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/205873.m3u8|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",HBO Hits HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052513|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052505|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",HBO Hits
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052511|Host=m.zoom.us
 #EXTINF:-1 group-title="Movies",BOO test
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052387|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",Celestial Movies 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052448|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052447|Host=m.zoom.us
 
 
 #EXTINF:-1 group-title=" Movies",Hits Movies 
@@ -484,13 +484,13 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/205915.m3u8|Host=m
 
 http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856882|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",HBO Family 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052504|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052503|Host=m.zoom.us
 #EXTINF:-1 group-title=" Movies",TVN Movies 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052651|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/mnmv1.png" group-title=" Movies",MN+ HD
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277008.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="",group-title=" Movies",Astro Showcase 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052584|Host=m.zoom.us
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052583|Host=m.zoom.us
 
 #EXTINF:0 group-title="Sports" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sport1 HD
 http://rhsbjv7k.tvclub.xyz/iptv/3K5Z3VE8M7N89U/2508/index.m3u8|Host=m.zoom.us
@@ -634,3 +634,4 @@ https://cdn.sinhalasub.net/425/Escape_From_The_21st_Century_2024_BluRay_SinhalaS
 https://cdn.sinhalasub.net/561/Dhadak%202%20%282025%29%20Hindi%20PRE-HD%20%5BSinhalaSub.LK%5D%20480p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter (2025)
 https://cdn.sinhalasub.net/439/28%20Years%20Later%20%282025%29%20WEB-DL%20%5BSinhalaSub.LK%5D%20480p.mp4
+
