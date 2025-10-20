@@ -16,20 +16,16 @@ http://103.2.153.38/drm/smil:deranatvdrm.smil/manifest.mpd|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ddcjju.png" group-title="Local Zoom free",Swarnawahini
 http://103.2.153.38/drm/smil:swarnawahinidrm.smil/manifest.mpd|Host=m.zoom.us
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ucihva.png" group-title="Local Zoom free",Sirasa TV
-http://103.2.153.38/drm/smil:sirasatvdrm.smil/manifest.mpd|Host=m.zoom.us
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/twchnq.png" group-title="Local Zoom free",Siyatha TV
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487941|Host=m.zoom.us
+
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/hiru-tv.png" group-title="Local Zoom free",Hiru TV
-http://103.2.153.38/drm/smil:hirutvdrm.smil/manifest.mpd|Host=m.zoom.us
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487919|Host=m.zoom.us
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ducchq.png" group-title="Local Zoom free",ITN
-http://103.2.153.38/drm/smil:itndrm.smil/manifest.mpd|Host=m.zoom.us
+
+#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ngfsik.png" group-title="Local Zoom free",Vasantham TV
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487943|Host=m.zoom.us
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
@@ -47,27 +43,27 @@ http://103.2.153.38/drm/smil:adaderana24drm.smil/manifest.mpd|Host=m.zoom.us
 http://103.2.153.38/drm/smil:knowledgetvdrm.smil/manifest.mpd|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="News",BBC World News
-http://bestp55.xyz:80/A7FC77529786/519C32219872/957700|Host=m.zoom.us
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/176797|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/winns.png" group-title="News",WION
-http://bestp55.xyz:80/A7FC77529786/519C32219872/809011|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/809011|Host=m.zoom.us
 
 
-#EXTINF:-1 tvg-logo="" group-title="News",CNA
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052453|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/TIMESNOWNEWSHD.png" group-title="News",Times Now
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34681|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/cnn.png" group-title="News",CNN
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052462|Host=m.zoom.us
+http://116342296971.d4ktv.info:80/0iq4jp0j2bb/ne5zp7911c/265791|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/jzr.png" group-title="News",AL JAZEERA
-http://bestp55.xyz:80/A7FC77529786/519C32219872/140169|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/dwnew.png" group-title="News",DW English 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052484|Host=m.zoom.us
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/176795|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="News",The Weather Channel 
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/716435|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV INDIA
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277022.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="News",Sun News
-http://bestp55.xyz:80/A7FC77529786/519C32219872/72124|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72124|Host=m.zoom.us
 #EXTINF:-1 group-title=" News",CGTN 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/957713|Host=m.zoom.us
+http://116342296971.d4ktv.info:80/0iq4jp0j2bb/ne5zp7911c/30355|Host=m.zoom.us
 #EXTINF:-1 tvg-id="the.weather.us" tvg-name="US083:The Weather Channel HD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_NEWS.png" group-title="News",Zee News
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1020151|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72248|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1020242|Host=m.zoom.us
@@ -658,6 +654,7 @@ https://cdn.sinhalasub.net/425/Escape_From_The_21st_Century_2024_BluRay_SinhalaS
 https://cdn.sinhalasub.net/561/Dhadak%202%20%282025%29%20Hindi%20PRE-HD%20%5BSinhalaSub.LK%5D%20480p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter (2025)
 https://cdn.sinhalasub.net/439/28%20Years%20Later%20%282025%29%20WEB-DL%20%5BSinhalaSub.LK%5D%20480p.mp4
+
 
 
 
