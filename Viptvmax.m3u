@@ -487,53 +487,53 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/277008.m3u8|Host=m
 #EXTINF:-1 tvg-logo="",group-title=" Movies",Astro Showcase 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052583|Host=m.zoom.us
 
-#EXTINF:0 group-title="Sports" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sport1 HD
+#EXTINF:0 group-title="Sports" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sport Select 1 HD
 http://rhsbjv7k.tvclub.xyz/iptv/3K5Z3VE8M7N89U/2508/index.m3u8|Host=m.zoom.us
-#EXTINF:0 group-title="Sports" tvg-id="2891" tvg-logo="http://epg.one/img/2891.png" tvg-rec="3",Star Sports 2 HD
+#EXTINF:0 group-title="Sports" tvg-id="2891" tvg-logo="http://epg.one/img/2891.png" tvg-rec="3",Star Sports Select 2 HD
 http://rhsbjv7k.tvclub.xyz/iptv/3K5Z3VE8M7N89U/2507/index.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/starsp1.png" group-title="Sports",STAR SPORTS 1 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090635|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090635|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/starsp2.png" group-title="Sports",STAR SPORTS 2 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090637|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090637|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 3.png" group-title="Sports",STAR SPORTS 3 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090638|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090638|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="" group-title="Sports",Astro Cricket 
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/303630.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strsps1.png" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090639|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090639|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/strsps2.png" group-title="Sports",STAR SPORTS SELECT 2  HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090640|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090640|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",PREMIER SPORTS
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052579|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Sports",PREMIER SPORTS 1
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/205913.m3u8|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",SPOTV
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052588|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Sports",PREMIER SPORTS 2
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/205912.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/ddsp.png" group-title="Sports",DD Sports 
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276948.m3u8|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Sports 1
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090641|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",Sony Sports Ten 3 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090643|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090641|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",Sony Sports 2
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090642|Host=m.zoom.us
 
-#EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-chno="891" group-title="Sports",Sony Sports Ten 2 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090642|Host=m.zoom.us
+#EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-chno="891" group-title="Sports",Sony Sports 3
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090643|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="Sports",Ziggo Sports Exstra
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/4857.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/ptsp.png" group-title="Sports",PTV SPORTS 
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:B5:A9:F8&stream=39975&extension=ts|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/WILLOW CRICKET HD.png" group-title="Sports",Willow Cricket
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1090644|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/316492|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel 2
-http://bestp55.xyz:80/A7FC77529786/519C32219872/316460|Host=m.zoom.us
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1104677|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Tennis 
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/605471.m3u8|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/10503.m3u8|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/Hub Sports 1.png" group-title="Sports",Hub Sports 1
 http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/280827.m3u8|Host=m.zoom.us
 
@@ -542,11 +542,11 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/280828.m3u8|Host=m
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/4577.png" group-title="Sports",Sky Sports Cricket 
 http://rhsbjv7k.tvclub.xyz/iptv/3H98G67KZ9HAS9/7343/ind|Host=m.zoom.us
-#EXTINF:-1 tvg-logo="" group-title="Sports",WSports 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052657|Host=m.zoom.us
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Tamil 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1090646|Host=m.zoom.us
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="Sports",WWE Network
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:B5:A9:F8&stream=47353&extension=ts|Host=m.zoom.us
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="https://go4.pw/USA/SD2/15.png" group-title="Sports",WWE 
+http://116342296971.d4ktv.info:80/0iq4jp0j2bb/ne5zp7911c/265815|Host=m.zoom.us
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="https://go4.pw/USA/SD2/15.png" group-title="Sports",WWE test
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1003473|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ddcjju.png" group-title="Data Charging TV",Swarnawahini 
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
@@ -653,6 +653,7 @@ https://cdn.sinhalasub.net/425/Escape_From_The_21st_Century_2024_BluRay_SinhalaS
 https://cdn.sinhalasub.net/561/Dhadak%202%20%282025%29%20Hindi%20PRE-HD%20%5BSinhalaSub.LK%5D%20480p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter (2025)
 https://cdn.sinhalasub.net/439/28%20Years%20Later%20%282025%29%20WEB-DL%20%5BSinhalaSub.LK%5D%20480p.mp4
+
 
 
 
