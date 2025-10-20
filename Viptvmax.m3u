@@ -37,10 +37,9 @@ http://103.2.153.38/drm/smil:charanadrm.smil/manifest.mpd|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/ada-derana-24.png" group-title="Local Zoom free",Ada Derana 24
 http://103.2.153.38/drm/smil:adaderana24drm.smil/manifest.mpd|Host=m.zoom.us
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="https://www.slt.lk/sites/default/files/channel_images/18-Dasatha%20tv.png" group-title="Local Zoom free",Dasatha TV
-http://103.2.153.38/drm/smil:knowledgetvdrm.smil/manifest.mpd|Host=m.zoom.us
+
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/eurns.png" group-title="News",Euro News
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510257|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="News",BBC World News
 http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/176797|Host=m.zoom.us
@@ -66,21 +65,21 @@ http://116342296971.d4ktv.info:80/0iq4jp0j2bb/ne5zp7911c/30355|Host=m.zoom.us
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72248|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1020242|Host=m.zoom.us
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mHLkOfIfSimcqyScZVTaow","k":"DN/P4NDx++EAVUzj70xGZQ"}]}
-#EXTINF:-1 tvg-logo="http://103.2.153.33/peotvgo/320/180/content/common/channel/logos/music-television.png" group-title="Music",Music Plus TV
-http://103.2.153.38/drm1/smil:musicplustvdrm.smil/manifest.mpd|Host=m.zoom.us
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483913|Host=m.zoom.us
 
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV 90s
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1125007|Host=m.zoom.us
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Mtv Hits
+http://116342296971.d4ktv.info:80/0iq4jp0j2bb/ne5zp7911c/90139|Host=m.zoom.us
+
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" group-title="Music",Showbox Music 
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510230|Host=m.zoom.us
 #EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="Music",MTV 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/510261|Host=m.zoom.us
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1484117|Host=m.zoom.us
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/MTVPORTUGAL.png" tvg-chno="248" group-title="Music",MTV Asia
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052558|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/809077|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/E24.png" group-title="Music",E24
-http://bestp55.xyz:80/A7FC77529786/519C32219872/72194|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72194|Host=m.zoom.us
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
@@ -94,10 +93,10 @@ http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/276969.m3u8|Host=m
 
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/b4ms.png" group-title="Music",B4U Music
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1020718|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72514|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/sunms.png" group-title="Music",Sun Music HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052602|Host=m.zoom.us
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019880|Host=m.zoom.us
 
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment",KBS World 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/543274|Host=m.zoom.us
@@ -654,6 +653,7 @@ https://cdn.sinhalasub.net/425/Escape_From_The_21st_Century_2024_BluRay_SinhalaS
 https://cdn.sinhalasub.net/561/Dhadak%202%20%282025%29%20Hindi%20PRE-HD%20%5BSinhalaSub.LK%5D%20480p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter (2025)
 https://cdn.sinhalasub.net/439/28%20Years%20Later%20%282025%29%20WEB-DL%20%5BSinhalaSub.LK%5D%20480p.mp4
+
 
 
 
